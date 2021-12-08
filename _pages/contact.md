@@ -4,33 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
-<pre>
-I’m a student who wants to make value. Then you can ask me ‘what is value?’
-I think you can understand it when you look around my blog. 😀
-</pre>
+<div>
+  😀 my Social Media:
+</div>
 
 
+:ledger: 
+- :star: instagram: idavidyou
+- E-mail: idavidyou@gmail.com
 
-😀 What I’m interested in:
-
-:ledger: What I can do
-* Python
-* Pandas, Numpy를 이용한 데이터 분석
-* 파이썬 기반 시각화
-* 파이썬 기반 머신러닝
-
-
-:ledger: Interests
-* Books 
-* Music
-* Netflix 
-
-
-* :telephone_receiver: Contact
-* :e-mail: E-mail
-
-:chart_with_upwards_trend: github
-* My github link
-:mag_right: 
-
-:star: Quora: Follow me on Quora. My profile is here.
+##### Please Feel Free To Contact Me
+#### Thank you
