@@ -124,4 +124,5 @@ feed:
 exclude:
   - settings.ini
 
-theme: jekyll-theme-hydure
+plugins:
+  - jekyll-remote-theme
